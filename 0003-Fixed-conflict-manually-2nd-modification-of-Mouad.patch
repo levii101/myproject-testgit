@@ -1,0 +1,27 @@
+From f7d08a0ec26eb14f79bb1855b5f3f84eaf642e71 Mon Sep 17 00:00:00 2001
+From: Othman <othman@machine.fr>
+Date: Thu, 2 Mar 2023 17:15:45 +0100
+Subject: [PATCH 3/3] Fixed conflict manually - 2nd modification of Mouad
+
+---
+ README.md | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 90deb4e..7730ed4 100644
+--- a/README.md
++++ b/README.md
+@@ -1,6 +1,9 @@
+ # myproject-testgit
+-This project aims to test some new functionalities added to the "known" platform v5.2.1.
++<<<<<<< HEAD
++This project aims to test some new functionalities added to the "known" platform v6.2.1.
+ 
+ Fenn a sat
+ 
+ Pour le test1 !!! ylk
++
++>>>>>>> 09c5776 (changed version v6.)
+-- 
+2.34.1
+

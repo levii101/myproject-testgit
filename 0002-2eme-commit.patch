@@ -1,0 +1,22 @@
+From d3d27a447c5f46e79aa71b535e067c8370f8b1b9 Mon Sep 17 00:00:00 2001
+From: Mouaad <molem3495@gmail.com>
+Date: Thu, 2 Mar 2023 17:06:52 +0100
+Subject: [PATCH 2/3] 2eme commit
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/README.md b/README.md
+index df01537..90deb4e 100644
+--- a/README.md
++++ b/README.md
+@@ -2,3 +2,5 @@
+ This project aims to test some new functionalities added to the "known" platform v5.2.1.
+ 
+ Fenn a sat
++
++Pour le test1 !!! ylk
+-- 
+2.34.1
+
